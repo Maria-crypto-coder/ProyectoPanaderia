@@ -1,0 +1,8 @@
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\bin\Debug\ProyectoPanaderia.exe
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\bin\Debug\ProyectoPanaderia.pdb
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\obj\Debug\ProyectoPanaderia.exe
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\obj\Debug\ProyectoPanaderia.pdb
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\bin\Debug\ProyectoPanaderia.exe.config
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\obj\Debug\ProyectoPanaderia.csproj.AssemblyReference.cache
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\obj\Debug\ProyectoPanaderia.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayala\Documents\SharpDevelop Projects\ProyectoPanaderia\ProyectoPanaderia\obj\Debug\ProyectoPanaderia.csproj.CoreCompileInputs.cache
